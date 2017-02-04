@@ -1,4 +1,5 @@
 # AVBotzImageSorter
+
 ImageSorter:
 	Run java -jar AVBotzImageSorter.jar
 	Put the images to be inside the "images" folder,
